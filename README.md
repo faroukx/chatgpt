@@ -4,6 +4,10 @@ Welcome to my ChatGPT and GPT-3 curated repository of awesome tools, demos, and 
 
 ## Table of Contents
 - [Resources](#Resources)
+  - [Web](#Web) 
+  - [General](#General) 
+  - [Prompts](#Prompts) 
+  - [Jailbreak](#Jailbreak) 
 
 
 ## Resources
