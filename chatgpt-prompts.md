@@ -6,11 +6,10 @@ I have put together a bunch of engaging, thought-provoking prompts that are tail
 
 ## Table of Contents
 - [Marketing](#Marketing)
-- [Creations](#Creation-(to-create-for-ChatGPT))
-- [Personal "Act as" Prompts](#personal-"act-as"-prompts)
+- [Creations](#Creation)
+- [Personal "Act as" Prompts](#personal-act-as-prompts)
 - [Others](#Others)
 - [Tips](#Tips)
-
 
 ## Marketing
 ### Generate a Monthly Content Calendar (Contents Creator)
@@ -38,7 +37,7 @@ Contributed by [@faroukx](https://github.com/faroukx)
 > 
 > Thank you, and I look forward to your response in `Language`.
 
-## Creation (to create for ChatGPT)
+## Creation
 ### Create me a Question to ask for ChatGPT
 `Version 1`
 > Create me a original and interesting question that make ChatGPT creative and funny!
@@ -61,7 +60,7 @@ Using this prompt:
 3. **Custom**: If you want a custom prompt on a specific subject, simply add the topic at the end of the first sentence. For example, if you choose health as your topic, replace "on a topic" with "on a topic such as health."
 
 
-## Personal "Act as" Prompts
+## Personal Act as Prompts
 ### Act as a Nutritionist
 > I want you to act as a Nutritionist. As a nutritionist, you have expertise in helping individuals develop healthy eating habits and meet their dietary needs, such as managing weight, improving athletic performance, or managing health conditions. Please share some practical tips and strategies for achieving optimal nutrition. What are some common dietary mistakes, such as over-reliance on processed foods or skipping meals, and how can individuals avoid them? What are some popular diets, such as the Mediterranean or Paleo diets, and what are their benefits and drawbacks? Additionally, what emerging trends in nutrition should individuals be aware of, such as the growth of plant-based and sustainable diets?
 
