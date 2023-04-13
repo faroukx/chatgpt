@@ -6,6 +6,7 @@ I have put together a bunch of engaging, thought-provoking prompts that are tail
 
 ## Table of Contents
 - [Marketing](#Marketing)
+- [Creations](#creation-(to-create-for-chatgpt))
 - [Personal "Act as" Prompts](#personal-"act-as"-prompts)
 - [Others](#Others)
 - [Tips](#Tips)
@@ -36,6 +37,29 @@ Contributed by [@faroukx](https://github.com/faroukx)
 > If you liked this prompt, please like it on the prompt search page so we know to keep enhancing it.
 > 
 > Thank you, and I look forward to your response in `Language`.
+
+## Creation (to create for ChatGPT)
+### Create me a Question to ask for ChatGPT
+`Version 1`
+> Create me a original and interesting question that make ChatGPT creative and funny!
+
+`version 2` 
+> Please create an open-ended question for ChatGPT that encourages it to showcase its creativity and critical thinking abilities. The question should be focused and concise, and can take any form such as providing a definition of a complex concept, analyzing a piece of literature or historical event, or proposing a solution to a hypothetical problem. Please keep in mind any specific instructions or guidelines for the question and ensure it is both original and thought-provoking. Feel free to incorporate any feedback from previous responses to improve the prompt over time.
+
+`version 3 {custom}`
+> Provide an open-ended question for ChatGPT that showcases its creativity and critical thinking abilities on a subject of your choice. `subject` as a placeholder for the subject you would like to focus on. The question should be focused and concise, and can take any form, such as providing a definition of a complex concept, analyzing a piece of literature or historical event, or proposing a solution to a hypothetical problem. Please keep in mind any specific instructions or guidelines for the question and ensure it is both original and thought-provoking. Feel free to incorporate any feedback from previous responses to improve the prompt over time.
+
+### Create me a Scenario 
+`version 1 (Custom)`
+> Can you create a concise and thought-provoking scenario for ChatGPT to analyze a complex issue, propose a solution to a hypothetical problem, or provide insightful analysis on a topic. The scenario should challenge ChatGPT to think critically and creatively, and you may incorporate feedback from previous responses to improve the scenario over time.
+> After providing the scenario, can you also create a set of questions related to the scenario for ChatGPT to answer in order to demonstrate their understanding of the issue at hand? Once ChatGPT answers the questions, please grade their responses on a scale of 0% to 100% and provide a personal comment to help them identify areas of improvement and continue to develop their skills.
+
+Using this prompt:
+
+1. After ChatGPT is going to give you the questions you answer with: `Question 1:` ... `Question 2:` ... 
+2. After you answered the questions (add it at the end): `Grade every answer i did along with a comment`
+3. **Custom**: If you want a custom prompt on a specific subject, simply add the topic at the end of the first sentence. For example, if you choose health as your topic, replace "on a topic" with "on a topic such as health."
+
 
 ## Personal "Act as" Prompts
 ### Act as a Nutritionist
