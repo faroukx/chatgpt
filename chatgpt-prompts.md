@@ -6,7 +6,7 @@ I have put together a bunch of engaging, thought-provoking prompts that are tail
 
 ## Table of Contents
 - [Marketing](#Marketing)
-- [Creations](#creation-(to-create-for-chatgpt))
+- [Creations](#Creation-(to-create-for-ChatGPT))
 - [Personal "Act as" Prompts](#personal-"act-as"-prompts)
 - [Others](#Others)
 - [Tips](#Tips)
