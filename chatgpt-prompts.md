@@ -1,7 +1,7 @@
 # ChatGPT Prompts
 Hey there! Welcome to the ChatGPT Prompts by [@faroukx](https://github.com/faroukx), where we've curated a selection of awesome prompt templates for SEO, SaaS, and more.
 
-Our team of experts has put together a bunch of engaging, thought-provoking prompts that are tailored to different industries and fields. Whether you're just starting out or you're a seasoned writer or marketer, our prompts will help you boost your creativity and come up with innovative ideas for your projects.
+I have put together a bunch of engaging, thought-provoking prompts that are tailored to different industries and fields. Whether you're just starting out or you're a seasoned writer or marketer, my prompts will help you boost your creativity and come up with innovative ideas for your projects.
 
 
 ## Table of Contents
