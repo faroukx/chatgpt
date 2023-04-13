@@ -1,4 +1,4 @@
-# Awesome ChatGPT
+# ChatGPT
 Welcome to my ChatGPT and GPT-3 curated repository of awesome tools, demos, and documentation for Artificial Intelligence enthusiasts.
 
 
