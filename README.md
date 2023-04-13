@@ -20,3 +20,7 @@ Welcome to my ChatGPT and GPT-3 curated repository of awesome tools, demos, and 
 
 ### Prompts
 - [Awesome ChatGPT Prompts (f)](https://github.com/f/awesome-chatgpt-prompts) - ChatGPT prompt curation.
+
+### Jailbreak
+- [Jailbreakchat](https://www.jailbreakchat.com/)
+- [ChatGPT Dan Jailbreak](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516#file-chatgpt-dan-jailbreak-md)
