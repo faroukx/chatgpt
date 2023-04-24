@@ -17,6 +17,10 @@ AI Resources from the web.
 
 - [Character.ai](https://beta.character.ai/) - AI characters with specific personalities and parameters for others to chat with.
 - [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis) - AI text-to-speech software. 
+- [Deepai](https://deepai.org/) - Artificially intelligent tools for naturally creative humans.
+  -  [Image Colorization](https://deepai.org/machine-learning-model/colorizer)
+  -  [Image Editor](https://deepai.org/machine-learning-model/image-editor)
+  -  [Image Generator](https://deepai.org/machine-learning-model/text2img)
 
 ### General
 General Resources.
