@@ -21,6 +21,7 @@ AI Resources from the web.
   -  [Image Colorization](https://deepai.org/machine-learning-model/colorizer)
   -  [Image Editor](https://deepai.org/machine-learning-model/image-editor)
   -  [Image Generator](https://deepai.org/machine-learning-model/text2img)
+  -  [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan)
 
 ### General
 General Resources.
