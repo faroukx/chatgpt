@@ -25,6 +25,7 @@ AI Resources from the web.
 - [Fotor](https://www.fotor.com/images/create) - AI Images generator.
 - [DALL-E](https://labs.openai.com/) - OpenAI Images generator.
 - [D-ID](https://www.d-id.com/) - AI Photos to videos.
+- [NovelAi](https://novelai.net/stories) - AI Generate texts to write stories or novels.
 
 ### General ChatGPT
 General Resources.
