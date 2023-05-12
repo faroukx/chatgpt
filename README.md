@@ -22,8 +22,10 @@ AI Resources from the web.
   -  [Image Editor](https://deepai.org/machine-learning-model/image-editor)
   -  [Image Generator](https://deepai.org/machine-learning-model/text2img)
   -  [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan)
+- [Fotor](https://www.fotor.com/images/create) - AI Images generator.
+- [DALL-E](https://labs.openai.com/) - OpenAI Images generator.
 
-### General
+### General ChatGPT
 General Resources.
 
 - [Awesome ChatGPT (humanloop)](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT.
