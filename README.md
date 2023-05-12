@@ -24,6 +24,7 @@ AI Resources from the web.
   -  [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan)
 - [Fotor](https://www.fotor.com/images/create) - AI Images generator.
 - [DALL-E](https://labs.openai.com/) - OpenAI Images generator.
+- [D-ID](https://www.d-id.com/) - AI Photos to videos.
 
 ### General ChatGPT
 General Resources.
