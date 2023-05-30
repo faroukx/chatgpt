@@ -26,6 +26,8 @@ AI Resources from the web.
 - [DALL-E](https://labs.openai.com/) - OpenAI Images generator.
 - [D-ID](https://www.d-id.com/) - AI Photos to videos.
 - [NovelAi](https://novelai.net/stories) - AI Generate texts to write stories or novels.
+- [Vidyo.ai](https://app.vidyo.ai/) -  Generative AI video tool that repurposes long videos into shorts with subtitles.
+- [Opus Clip](https://clip.opus.pro/) - Generative AI video tool that repurposes long videos into shorts with subtitles.
 
 ### General ChatGPT
 General Resources.
