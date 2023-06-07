@@ -15,19 +15,30 @@ Welcome to my ChatGPT and GPT-3 curated repository of awesome tools, demos, and 
 ### Web
 AI Resources from the web.
 
-- [Character.ai](https://beta.character.ai/) - AI characters with specific personalities and parameters for others to chat with.
+#### AI Tools
 - [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis) - AI text-to-speech software. 
 - [Deepai](https://deepai.org/) - Artificially intelligent tools for naturally creative humans.
   -  [Image Colorization](https://deepai.org/machine-learning-model/colorizer)
   -  [Image Editor](https://deepai.org/machine-learning-model/image-editor)
   -  [Image Generator](https://deepai.org/machine-learning-model/text2img)
   -  [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan)
+
+#### AI Texts Generator
+- [Character.ai](https://beta.character.ai/) - AI characters with specific personalities and parameters for others to chat with.
+- [NovelAi](https://novelai.net/stories) - AI Generate texts to write stories or novels.
+
+#### AI Images Generator
+- [Unstability.ai](https://www.unstability.ai/) - AI Images generator (⚠️ NFSW).
+- [Stablediffusionweb](https://stablediffusionweb.com/) - AI Images generator.
+- [Diffusionbee](https://diffusionbee.com/) - AI Images generator for MAC users.
 - [Fotor](https://www.fotor.com/images/create) - AI Images generator.
 - [DALL-E](https://labs.openai.com/) - OpenAI Images generator.
-- [D-ID](https://www.d-id.com/) - AI Photos to videos.
-- [NovelAi](https://novelai.net/stories) - AI Generate texts to write stories or novels.
+
+#### AI Videos Generator
 - [Vidyo.ai](https://app.vidyo.ai/) -  Generative AI video tool that repurposes long videos into shorts with subtitles.
 - [Opus Clip](https://clip.opus.pro/) - Generative AI video tool that repurposes long videos into shorts with subtitles.
+- [D-ID](https://www.d-id.com/) - AI Photos to videos.
+
 
 ### General ChatGPT
 General Resources.
