@@ -21,7 +21,8 @@ AI Resources from the web.
   -  [Image Colorization](https://deepai.org/machine-learning-model/colorizer)
   -  [Image Editor](https://deepai.org/machine-learning-model/image-editor)
   -  [Image Generator](https://deepai.org/machine-learning-model/text2img)
-  -  [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan)
+  -  [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan) - AI to increase image resolution without losing quality.
+- [Remini.ai](https://app.remini.ai/) - AI to increase image resolution without losing quality.
 
 #### AI Texts Generator
 - [Character.ai](https://beta.character.ai/) - AI characters with specific personalities and parameters for others to chat with.
