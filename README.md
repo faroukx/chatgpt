@@ -31,6 +31,7 @@ AI Resources from the web.
 - [NovelAi](https://novelai.net/stories) - AI Generate texts to write stories or novels.
 
 #### AI Images Generator
+- [Midjourney](https://www.midjourney.com/account/) - AI Images generator.
 - [Stablediffusionweb](https://stablediffusionweb.com/) - AI Images generator.
 - [Diffusionbee](https://diffusionbee.com/) - AI Images generator for MAC users.
 - [Fotor](https://www.fotor.com/images/create) - AI Images generator.
