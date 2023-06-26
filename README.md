@@ -37,11 +37,9 @@ AI Resources from the web.
 - [Diffusionbee](https://diffusionbee.com/) - AI Images generator for MAC users.
 - [Fotor](https://www.fotor.com/images/create) - AI Images generator.
 - [DALL-E](https://labs.openai.com/) - OpenAI Images generator.
-
-##### ⚠️ NFSW
 - [Unstability.ai](https://www.unstability.ai/) - AI Images generator (⚠️ NFSW).
-- [Pornderful.ai](https://pornderful.ai/) - AI Images generator (⚠️ NFSW).
 - [Civit.ai](https://civitai.com/) - Stable Diffusion AI Art models (⚠️ NFSW).
+
 
 #### AI Videos Generator
 - [Vidyo.ai](https://app.vidyo.ai/) -  Generative AI video tool that repurposes long videos into shorts with subtitles.
