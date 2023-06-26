@@ -25,6 +25,7 @@ AI Resources from the web.
 - [Remini.ai](https://app.remini.ai/) - AI to increase image resolution. (Image Upscaler)
   - [Remove the watermark](https://www.watermarkremover.io/fr/upload)
 - [Cutout.pro](https://www.cutout.pro/photo-enhancer-sharpener-upscaler) - AI to increase image resolution. (Image Upscaler)
+- [Speechify](https://speechify.com/) - AI Voice synthesis 
 
 #### AI Texts Generator
 - [Character.ai](https://beta.character.ai/) - AI characters with specific personalities and parameters for others to chat with.
