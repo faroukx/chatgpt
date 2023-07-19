@@ -16,7 +16,6 @@ Welcome to my ChatGPT and GPT-3 curated repository of awesome tools, demos, and 
 AI Resources from the web.
 
 #### AI Tools
-- [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis) - AI text-to-speech software. 
 - [Deepai](https://deepai.org/) - Artificially intelligent tools for naturally creative humans.
   -  [Image Colorization](https://deepai.org/machine-learning-model/colorizer)
   -  [Image Editor](https://deepai.org/machine-learning-model/image-editor)
@@ -47,6 +46,7 @@ AI Resources from the web.
 - [D-ID](https://www.d-id.com/) - AI Photos to videos.
 
 #### AI Audio Generator
+- [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis) - AI text-to-speech software. 
 - [Rask.ai](https://www.rask.ai/) - Upload a video with someone talking and it directly change the language and keep the voice in the video.
 
 ### General ChatGPT
