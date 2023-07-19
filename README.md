@@ -46,6 +46,8 @@ AI Resources from the web.
 - [Opus Clip](https://clip.opus.pro/) - Generative AI video tool that repurposes long videos into shorts with subtitles.
 - [D-ID](https://www.d-id.com/) - AI Photos to videos.
 
+#### AI Audio Generator
+- [Rask.ai](https://www.rask.ai/) - Upload a video with someone talking and it directly change the language and keep the voice in the video.
 
 ### General ChatGPT
 General Resources.
