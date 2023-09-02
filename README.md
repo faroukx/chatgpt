@@ -1,6 +1,4 @@
-# ChatGPT
-Welcome to my ChatGPT and GPT-3 curated repository of awesome tools, demos, and documentation for Artificial Intelligence enthusiasts.
-
+# Farouk IA 
 
 ## Table of Contents
 - [Resources](#Resources)
@@ -24,7 +22,9 @@ AI Resources from the web.
 - [Remini.ai](https://app.remini.ai/) - AI to increase image resolution. (Image Upscaler)
   - [Remove the watermark](https://www.watermarkremover.io/fr/upload)
 - [Cutout.pro](https://www.cutout.pro/photo-enhancer-sharpener-upscaler) - AI to increase image resolution. (Image Upscaler)
-- [Speechify](https://speechify.com/) - AI Voice synthesis 
+- [Speechify](https://speechify.com/) - AI Voice synthesis
+- [detector.dng](https://detector.dng.ai/fr) - AI Detector
+- [Gptzero](https://gptzero.me/) - AI Detector
 
 #### AI Texts Generator
 - [Character.ai](https://beta.character.ai/) - AI characters with specific personalities and parameters for others to chat with.
