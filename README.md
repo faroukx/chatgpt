@@ -1,4 +1,4 @@
-# Farouk IA 
+# Farouk AI
 
 ## Table of Contents
 - [Resources](#Resources)
