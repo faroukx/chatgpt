@@ -19,6 +19,7 @@ AI Resources from the web.
   -  [Image Editor](https://deepai.org/machine-learning-model/image-editor)
   -  [Image Generator](https://deepai.org/machine-learning-model/text2img)
   -  [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan) - AI to increase image resolution without losing quality.
+- [Zyro](https://zyro.com/ca/tools/image-upscaler) - Image Upscaler.
 - [Remini.ai](https://app.remini.ai/) - AI to increase image resolution. (Image Upscaler)
   - [Remove the watermark](https://www.watermarkremover.io/fr/upload)
 - [Cutout.pro](https://www.cutout.pro/photo-enhancer-sharpener-upscaler) - AI to increase image resolution. (Image Upscaler)
