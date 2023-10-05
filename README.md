@@ -49,6 +49,8 @@ AI Resources from the web.
 #### AI Audio Generator
 - [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis) - AI text-to-speech software. 
 - [Rask.ai](https://www.rask.ai/) - Upload a video with someone talking and it directly change the language and keep the voice in the video.
+- [covers.ai] - AI Voice
+- [voicemy.ai](https://www.app.voicemy.ai/) - AI Voice (more french)
 
 ### General ChatGPT
 General Resources.
