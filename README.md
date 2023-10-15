@@ -1,73 +1,75 @@
 # Farouk AI
 
+A curated list of AI resources, tools, and more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+
 ## Table of Contents
-- [Resources](#Resources)
-  - [Web](#Web) 
-  - [General](#General) 
-  - [Prompts](#Prompts) 
-  - [Jailbreak](#Jailbreak) 
+- [Web Resources](#web-resources)
+  - [Image Processing](#image-processing)
+  - [Voice Tools](#voice-tools)
+  - [Detection Tools](#detection-tools)
+  - [Text Generators](#ai-texts-generator)
+  - [Image Generators](#ai-images-generator)
+  - [Video Generators](#ai-videos-generator)
+  - [Audio Generators](#ai-audio-generator)
+- [General ChatGPT](#general-chatgpt)
+- [Prompts](#prompts)
+- [Jailbreak](#jailbreak)
 
+## Web Resources
 
-## Resources
+### Image Processing
+- [**Deepai**](https://deepai.org/)
+  - [Image Colorization](https://deepai.org/machine-learning-model/colorizer) - Colorizes black & white images.
+  - [Image Editor](https://deepai.org/machine-learning-model/image-editor) - AI-driven image editing.
+  - [Image Generator](https://deepai.org/machine-learning-model/text2img) - Creates images from text prompts.
+  - [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan) - Increases image resolution without quality loss.
+- [**Zyro**](https://zyro.com/ca/tools/image-upscaler) - Enhances and upscales images.
+- [**Remini.ai**](https://app.remini.ai/) - Upscales images.
+  - [Remove the watermark](https://www.watermarkremover.io/fr/upload) - Removes watermarks from images.
+- [**Cutout.pro**](https://www.cutout.pro/photo-enhancer-sharpener-upscaler) - Enhances, sharpens, and upscales images.
 
-### Web
-AI Resources from the web.
+### Voice Tools
+- [**Speechify**](https://speechify.com/) - Converts text to speech.
+- [**covers.ai**](https://covers.ai) - AI voice generator.
+- [**voicemy.ai**](https://www.app.voicemy.ai/) - French-focused AI voice generator.
 
-#### AI Tools
-- [Deepai](https://deepai.org/) - Artificially intelligent tools for naturally creative humans.
-  -  [Image Colorization](https://deepai.org/machine-learning-model/colorizer)
-  -  [Image Editor](https://deepai.org/machine-learning-model/image-editor)
-  -  [Image Generator](https://deepai.org/machine-learning-model/text2img)
-  -  [Super Resolution API (enhance)](https://deepai.org/machine-learning-model/torch-srgan) - AI to increase image resolution without losing quality.
-- [Zyro](https://zyro.com/ca/tools/image-upscaler) - Image Upscaler.
-- [Remini.ai](https://app.remini.ai/) - AI to increase image resolution. (Image Upscaler)
-  - [Remove the watermark](https://www.watermarkremover.io/fr/upload)
-- [Cutout.pro](https://www.cutout.pro/photo-enhancer-sharpener-upscaler) - AI to increase image resolution. (Image Upscaler)
-- [Speechify](https://speechify.com/) - AI Voice synthesis
-- [detector.dng](https://detector.dng.ai/fr) - AI Detector
-- [Gptzero](https://gptzero.me/) - AI Detector
+### Detection Tools
+- [**detector.dng**](https://detector.dng.ai/fr) - Detects AI-generated content.
+- [**Gptzero**](https://gptzero.me/) - Another AI content detector.
+- [**Stealthwriter**](https://stealthwriter.ai/#) - Adds human-like nuances to AI-generated content.
 
-#### AI Texts Generator
-- [Character.ai](https://beta.character.ai/) - AI characters with specific personalities and parameters for others to chat with.
-- [NovelAi](https://novelai.net/stories) - AI Generate texts to write stories or novels.
+### AI Texts Generator
+- [**Character.ai**](https://beta.character.ai/) - Creates AI characters for interaction.
+- [**NovelAi**](https://novelai.net/stories) - Generates narratives and stories.
 
-#### AI Images Generator
-- [Midjourney](https://www.midjourney.com/account/) - AI Images generator.
-- [Stablediffusionweb](https://stablediffusionweb.com/) - AI Images generator.
-- [Diffusionbee](https://diffusionbee.com/) - AI Images generator for MAC users.
-- [Fotor](https://www.fotor.com/images/create) - AI Images generator.
-- [DALL-E](https://labs.openai.com/) - OpenAI Images generator.
-- [Unstability.ai](https://www.unstability.ai/) - AI Images generator (⚠️ NFSW).
-- [Civit.ai](https://civitai.com/) - Stable Diffusion AI Art models (⚠️ NFSW).
+### AI Images Generator
+- [**Midjourney**](https://www.midjourney.com/account/) - Generates unique images.
+- [**Stablediffusionweb**](https://stablediffusionweb.com/) - AI-driven image creation.
+- [**Diffusionbee**](https://diffusionbee.com/) - Image generator tailored for MAC users.
+- [**Fotor**](https://www.fotor.com/images/create) - Creates images with AI assistance.
+- [**DALL-E**](https://labs.openai.com/) - OpenAI's image generation model.
+- [**Unstability.ai**](https://www.unstability.ai/) - Generates images (⚠️ NFSW).
+- [**Civit.ai**](https://civitai.com/) - AI Art models (⚠️ NFSW).
 
+### AI Videos Generator
+- [**Vidyo.ai**](https://app.vidyo.ai/) - Repurposes long videos into shorter ones with subtitles.
+- [**Opus Clip**](https://clip.opus.pro/) - Another tool for generating short video clips with subtitles.
+- [**D-ID**](https://www.d-id.com/) - Turns photos into animated videos.
 
-#### AI Videos Generator
-- [Vidyo.ai](https://app.vidyo.ai/) -  Generative AI video tool that repurposes long videos into shorts with subtitles.
-- [Opus Clip](https://clip.opus.pro/) - Generative AI video tool that repurposes long videos into shorts with subtitles.
-- [D-ID](https://www.d-id.com/) - AI Photos to videos.
+### AI Audio Generator
+- [**ElevenLabs**](https://beta.elevenlabs.io/speech-synthesis) - Text-to-speech software.
+- [**Rask.ai**](https://www.rask.ai/) - Changes video language while retaining the original voice.
 
-#### AI Audio Generator
-- [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis) - AI text-to-speech software. 
-- [Rask.ai](https://www.rask.ai/) - Upload a video with someone talking and it directly change the language and keep the voice in the video.
-- [covers.ai] - AI Voice
-- [voicemy.ai](https://www.app.voicemy.ai/) - AI Voice (more french)
+## General ChatGPT
+- [**Awesome ChatGPT (humanloop)**](https://github.com/humanloop/awesome-chatgpt) - Curated resources for ChatGPT.
+- [**Awesome ChatGPT (OpenMindClub)**](https://github.com/OpenMindClub/awesome-chatgpt) - Another ChatGPT resources list.
+- [**Awesome ChatGPT API (reorx)**](https://github.com/reorx/awesome-chatgpt-api/) - Apps and tools utilizing the ChatGPT API.
 
-### General ChatGPT
-General Resources.
+## Prompts
+- [**Awesome ChatGPT Prompts (f)**](https://github.com/f/awesome-chatgpt-prompts) - Curated list of ChatGPT prompts.
+- [**Awesome ChatGPT Prompts (faroukx)**](https://github.com/faroukx/chatgpt-artificial-intelligence/blob/main/chatgpt-prompts.md) - Unique ChatGPT prompts curated by Farouk and team.
 
-- [Awesome ChatGPT (humanloop)](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT.
-- [Awesome ChatGPT (OpenMindClub)](https://github.com/OpenMindClub/awesome-chatgpt) - Curated list of resources for ChatGPT.
-- [Awesome ChatGPT API (reorx)](https://github.com/reorx/awesome-chatgpt-api/) - Curated list of apps and tools that use the new ChatGPT API.
-
-### Prompts
-ChatGPT prompts.
-
-- [Awesome ChatGPT Prompts (f)](https://github.com/f/awesome-chatgpt-prompts) - ChatGPT prompt curation.
-- [Awesome ChatGPT Prompts (faroukx)](https://github.com/faroukx/chatgpt-artificial-intelligence/blob/main/chatgpt-prompts.md) - unique list of ChatGPT prompts designed by me and my team.
-
-### Jailbreak
-ChatGPT jailbreak.
-
-- [Jailbreakchat](https://www.jailbreakchat.com/) - list of unique prompts to "jailbreak" ChatGPT
-- [ChatGPT Dan Jailbreak](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516#file-chatgpt-dan-jailbreak-md) - List of DAN (Do Anything Now) prompts.
-- [ChatGPT Jailbreak(faroukx)](https://github.com/faroukx/chatgpt-artificial-intelligence/blob/main/chatgpt-jailbreak.md) - List of my favorite Jailbreak.
+## Jailbreak
+- [**Jailbreakchat**](https://www.jailbreakchat.com/) - Unique prompts to "jailbreak" ChatGPT.
+- [**ChatGPT Dan Jailbreak**](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516#file-chatgpt-dan-jailbreak-md) - DAN prompts to instruct ChatGPT.
+- [**ChatGPT Jailbreak(faroukx)**](https://github.com/faroukx/chatgpt-artificial-intelligence/blob/main/chatgpt-jailbreak.md) - Farouk's favorite jailbreak prompts.
