@@ -41,6 +41,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 ### AI Texts Generator
 - [**Character.ai**](https://beta.character.ai/) - Creates AI characters for interaction.
 - [**NovelAi**](https://novelai.net/stories) - Generates narratives and stories.
+- [**Libretranslate**](https://libretranslate.com/) - Translate texts to any language for free. (Deepl alternative)
 
 ### AI Images Generator
 - [**Midjourney**](https://www.midjourney.com/account/) - Generates unique images.
