@@ -32,6 +32,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [**Speechify**](https://speechify.com/) - Converts text to speech.
 - [**covers.ai**](https://covers.ai) - AI voice generator.
 - [**voicemy.ai**](https://www.app.voicemy.ai/) - French-focused AI voice generator.
+- [**vocali.se**](https://vocali.se/en) - AI Separate Audio from Instrumental (vocalremover & lalal.ai FREE alternative).
 
 ### Detection Tools
 - [**detector.dng**](https://detector.dng.ai/fr) - Detects AI-generated content.
