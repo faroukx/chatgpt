@@ -17,6 +17,9 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 
 ## Web Resources
 
+### Others
+- [neural.love](https://neural.love/) - AI Art Generator & AI Enhance. (All in one)
+
 ### Image Processing
 - [**Deepai**](https://deepai.org/)
   - [Image Colorization](https://deepai.org/machine-learning-model/colorizer) - Colorizes black & white images.
@@ -62,6 +65,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 ### AI Audio Generator
 - [**ElevenLabs**](https://beta.elevenlabs.io/speech-synthesis) - Text-to-speech software.
 - [**Rask.ai**](https://www.rask.ai/) - Changes video language while retaining the original voice.
+
 
 ## General ChatGPT
 - [**Awesome ChatGPT (humanloop)**](https://github.com/humanloop/awesome-chatgpt) - Curated resources for ChatGPT.
