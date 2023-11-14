@@ -16,8 +16,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [Jailbreak](#jailbreak)
 
 ## Web Resources
-
-### Others
+- [flowgpt](https://flowgpt.com/) - AI Chat Prompts generator. (JAILBREAK)
 - [neural.love](https://neural.love/) - AI Art Generator & AI Enhance. (All in one)
 
 ### Image Processing
