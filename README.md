@@ -66,21 +66,5 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [**ElevenLabs**](https://beta.elevenlabs.io/speech-synthesis) - Text-to-speech software.
 - [**Rask.ai**](https://www.rask.ai/) - Changes video language while retaining the original voice.
 
-## ChatGPT
+### ChatGPT
 - [Gptsgarden](https://www.gptsgarden.com/) - GPT-4 Builders list.
-
-### Patched
-
-General ChatGPT:
-- [**Awesome ChatGPT (humanloop)**](https://github.com/humanloop/awesome-chatgpt) - Curated resources for ChatGPT.
-- [**Awesome ChatGPT (OpenMindClub)**](https://github.com/OpenMindClub/awesome-chatgpt) - Another ChatGPT resources list.
-- [**Awesome ChatGPT API (reorx)**](https://github.com/reorx/awesome-chatgpt-api/) - Apps and tools utilizing the ChatGPT API.
-
-Prompts:
-- [**Awesome ChatGPT Prompts (f)**](https://github.com/f/awesome-chatgpt-prompts) - Curated list of ChatGPT prompts.
-- [**Awesome ChatGPT Prompts (faroukx)**](https://github.com/faroukx/chatgpt-artificial-intelligence/blob/main/chatgpt-prompts.md) - Unique ChatGPT prompts curated by Farouk and team.
-
-Jailbreak:
-- [**Jailbreakchat**](https://www.jailbreakchat.com/) - Unique prompts to "jailbreak" ChatGPT.
-- [**ChatGPT Dan Jailbreak**](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516#file-chatgpt-dan-jailbreak-md) - DAN prompts to instruct ChatGPT.
-- [**ChatGPT Jailbreak(faroukx)**](https://github.com/faroukx/chatgpt-artificial-intelligence/blob/main/chatgpt-jailbreak.md) - Farouk's favorite jailbreak prompts.
