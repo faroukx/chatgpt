@@ -66,5 +66,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [**ElevenLabs**](https://beta.elevenlabs.io/speech-synthesis) - Text-to-speech software.
 - [**Rask.ai**](https://www.rask.ai/) - Changes video language while retaining the original voice.
 
-### ChatGPT
+## ChatGPT
 - [Gptsgarden](https://www.gptsgarden.com/) - GPT-4 Builders list.
+
+
