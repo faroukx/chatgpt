@@ -16,8 +16,10 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [Jailbreak](#jailbreak)
 
 ## Web Resources
-- [flowgpt](https://flowgpt.com/) - AI Chat Prompts generator. (JAILBREAK)
-- [neural.love](https://neural.love/) - AI Art Generator & AI Enhance. (All in one)
+- [**aitoolhunt**](https://www.aitoolhunt.com/) - Search and get any AI tool.
+- [**flowgpt**](https://flowgpt.com/) - AI Chat Prompts generator. (JAILBREAK)
+- [ChatGPT Jailbreaks](https://www.jailbreakchat.com/) - ChatGPT Jailbreak prompts.
+- [**neural.love**](https://neural.love/) - AI Art Generator & AI Enhance. (All in one)
 
 ### Image Processing
 - [**Deepai**](https://deepai.org/)
@@ -34,6 +36,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [**Speechify**](https://speechify.com/) - Converts text to speech.
 - [**covers.ai**](https://covers.ai) - AI voice generator.
 - [**voicemy.ai**](https://www.app.voicemy.ai/) - French-focused AI voice generator.
+- [**voicestars**](https://www.voicestars.co/) - Singers AI voice generator.
 - [**vocali.se**](https://vocali.se/en) - AI Separate Audio from Instrumental (vocalremover & lalal.ai FREE alternative).
 
 ### Detection Tools
