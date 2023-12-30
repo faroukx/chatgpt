@@ -11,14 +11,11 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
   - [Image Generators](#ai-images-generator)
   - [Video Generators](#ai-videos-generator)
   - [Audio Generators](#ai-audio-generator)
-- [General ChatGPT](#general-chatgpt)
-- [Prompts](#prompts)
-- [Jailbreak](#jailbreak)
+- [ChatGPT](#chatgpt)
 
 ## Web Resources
 - [**aitoolhunt**](https://www.aitoolhunt.com/) - Search and get any AI tool.
 - [**flowgpt**](https://flowgpt.com/) - AI Chat Prompts generator. (JAILBREAK)
-- [ChatGPT Jailbreaks](https://www.jailbreakchat.com/) - ChatGPT Jailbreak prompts.
 - [**neural.love**](https://neural.love/) - AI Art Generator & AI Enhance. (All in one)
 
 ### Image Processing
@@ -71,5 +68,6 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 
 ## ChatGPT
 - [Gptsgarden](https://www.gptsgarden.com/) - GPT-4 Builders list.
+- [ChatGPT Jailbreaks](https://www.jailbreakchat.com/) - ChatGPT Jailbreak prompts.
 
 
