@@ -12,6 +12,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
   - [Video Generators](#ai-videos-generator)
   - [Audio Generators](#ai-audio-generator)
 - [ChatGPT](#chatgpt)
+- [Dark|(#dark)
 
 ## Web Resources
 - [**aitoolhunt**](https://www.aitoolhunt.com/) - Search and get any AI tool.
@@ -71,4 +72,6 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [Gptsgarden](https://www.gptsgarden.com/) - GPT-4 Builders list.
 - [ChatGPT Jailbreaks](https://www.jailbreakchat.com/) - ChatGPT Jailbreak prompts.
 
-
+## Dark
+- [FlowGPT](https://flowgpt.com/) - Largest AI platform.
+- [WormGPT](https://flowgpt.com/p/wormgpt-6) - Illegal and unethical GPT.
