@@ -39,6 +39,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [**vocali.se**](https://vocali.se/en) - AI Separate Audio from Instrumental (vocalremover & lalal.ai FREE alternative).
 
 ### Detection Tools
+- https://detector.dng.ai/fr - Detecteur GPT en francais (Utilisé par les profs).
 - [**virtualwritingtutor**](https://virtualwritingtutor.com/) - Detects Ai-generated content, grammar checker, improve writing.
 - [**detector.dng**](https://detector.dng.ai/fr) - Detects AI-generated content.
 - [**Gptzero**](https://gptzero.me/) - Another AI content detector.
