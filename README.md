@@ -19,6 +19,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [**aisearch**](https://ai-search.io/) - Search and get any AI tool.
 - [**flowgpt**](https://flowgpt.com/) - AI Chat Prompts generator. (JAILBREAK)
 - [**neural.love**](https://neural.love/) - AI Art Generator & AI Enhance. (All in one)
+- https://www.toolify.ai/ - List of AI tools
 
 ### Image Processing
 - [**Deepai**](https://deepai.org/)
