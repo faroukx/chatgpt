@@ -53,6 +53,7 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [**Libretranslate**](https://libretranslate.com/) - Translate texts to any language for free. (Deepl alternative)
 
 ### AI Images Generator
+- ⭐ [**Ideogram**](https://ideogram.ai/t/explore)
 - [**Midjourney**](https://www.midjourney.com/account/) - Generates unique images.
 - [**Stablediffusionweb**](https://stablediffusionweb.com/) - AI-driven image creation.
 - [**Diffusionbee**](https://diffusionbee.com/) - Image generator tailored for MAC users.
@@ -62,6 +63,8 @@ A curated list of AI resources, tools, and more. Inspired by the [awesome](https
 - [**Civit.ai**](https://civitai.com/) - AI Art models (⚠️ NFSW).
 
 ### AI Videos Generator
+- ⭐ [**Runway**](https://runwayml.com/)
+- ⭐ [**Luma**](https://lumalabs.ai/dream-machine)
 - [**Vidyo.ai**](https://app.vidyo.ai/) - Repurposes long videos into shorter ones with subtitles.
 - [**Opus Clip**](https://clip.opus.pro/) - Another tool for generating short video clips with subtitles.
 - [**D-ID**](https://www.d-id.com/) - Turns photos into animated videos.
